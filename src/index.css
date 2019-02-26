@@ -6,9 +6,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+img{max-width: 200px;}
+.movie-card{
+  border: 1px solid black;
+  width: 200px;
+  margin: 0 25px;
+ 
+  }
+  .image-container{
+      width: 100%;
+      
+  }
+
+.rating{
+  text-align: right;
+ 
+  }
+  .gold{
+    color:red;
 }
